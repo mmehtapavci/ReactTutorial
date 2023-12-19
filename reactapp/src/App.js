@@ -13,7 +13,12 @@ class App extends Component {
         <User
           name="Mustafa Murat Coşkun "
           salary="5000"
-          depatment="Bilişim"
+          department="Bilişim"
+        />
+        <User
+          name="Oğuz Artıran"
+          salary="6000"
+          department="Bilişim"
         />
       </div>
     );
